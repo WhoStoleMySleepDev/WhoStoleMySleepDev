@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Konstantin 👋
 
-<!--
-**WhoStoleMySleepDev/WhoStoleMySleepDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer (Next.js, React, Nuxt.js, Vue) with 4 years of experience
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Core:** TypeScript · JavaScript · React · Next.js · Vue.js · Nuxt.js  
+**State & Data:** Zustand · Redux · TanStack Query, Pinia  
+**Backend:** Node.js · Express · Nest.js · PostgreSQL · Prisma · REST API · GraphQL  
+**UI:** Tailwind CSS · Shadcn/ui · SASS/SCSS  
+**Tooling:** Webpack · Vite · Jest · Cypress · Playwright · Docker · CI/CD · Sentry  
+**Performance:** Core Web Vitals · SSR/ISR/SSG
+
+## Open Source
+
+| Package | Description |
+|---|---|
+| [@wsms/logger](https://github.com/WhoStoleMySleepDev/logger) | Zero-dependency structured logger for Node.js — async writes (~700k logs/sec), log rotation, child loggers | 
+|[@wsms/logger-connect-nuxt](https://github.com/WhoStoleMySleepDev/logger-connect-nuxt) | Nuxt 3/4 module for @wsms/logger |
+
+## Contact
+
+- **Email:** whostolemysleep@gmail.com
+- **Tel:** +7 (913) 307-05-92
