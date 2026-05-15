@@ -13,10 +13,11 @@ Frontend developer (Next.js, React, Nuxt.js, Vue) with 4 years of experience
 
 ## Open Source
 
-| Package | Description |
+| Project | Description |
 |---|---|
 | [@wsms/logger](https://github.com/WhoStoleMySleepDev/logger) | Zero-dependency structured logger for Node.js — async writes (~700k logs/sec), log rotation, child loggers | 
 |[@wsms/logger-connect-nuxt](https://github.com/WhoStoleMySleepDev/logger-connect-nuxt) | Nuxt 3/4 module for @wsms/logger |
+|[protected-gallery](https://github.com/WhoStoleMySleepDev/protected-gallery/) | A personal encrypted media vault for Android. PIN-protected, AES-256-GCM, fully offline. |
 
 ## Contact
 
