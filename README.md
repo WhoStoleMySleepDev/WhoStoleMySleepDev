@@ -1,25 +1,26 @@
 # Hi, I'm Konstantin 👋
 
-Frontend developer (Next.js, React, Nuxt.js, Vue) with 4 years of experience
+Frontend developer specializing in **Vue 3 / Nuxt 2·3·4** with 4 years of commercial experience in fintech (SberSpasibo, Pochta Bank).
 
 ## Stack
 
-**Core:** TypeScript · JavaScript · React · Next.js · Vue.js · Nuxt.js  
-**State & Data:** Zustand · Redux · TanStack Query, Pinia  
-**Backend:** Node.js · Express · Nest.js · PostgreSQL · Prisma · REST API · GraphQL  
-**UI:** Tailwind CSS · Shadcn/ui · SASS/SCSS  
-**Tooling:** Webpack · Vite · Jest · Cypress · Playwright · Docker · CI/CD · Sentry  
-**Performance:** Core Web Vitals · SSR/ISR/SSG
+**Core:** TypeScript · JavaScript · Vue 3 · Nuxt 4/3/2 · React · Next.js  
+**State & Data:** Pinia · TanStack Query · Vuex · Zustand · Redux  
+**UI:** Tailwind CSS · SCSS/SASS · CSS Modules · Shadcn/ui  
+**Backend:** Node.js · NestJS · Express · REST API · GraphQL · WebSocket · PostgreSQL · Prisma  
+**Tooling:** Vite · Webpack · Vitest · Jest · Playwright · Cypress · Docker · CI/CD · Sentry  
+**Performance:** Core Web Vitals (LCP · INP · CLS) · SSR · SSG · ISR · SPA · code splitting · lazy loading
 
 ## Open Source
 
 | Project | Description |
 |---|---|
-| [@wsms/logger](https://github.com/WhoStoleMySleepDev/logger) | Zero-dependency structured logger for Node.js — async writes (~700k logs/sec), log rotation, child loggers | 
-|[@wsms/logger-connect-nuxt](https://github.com/WhoStoleMySleepDev/logger-connect-nuxt) | Nuxt 3/4 module for @wsms/logger |
-|[protected-gallery](https://github.com/WhoStoleMySleepDev/protected-gallery/) | A personal encrypted media vault for Android. PIN-protected, AES-256-GCM, fully offline. |
+| [@wsms/logger](https://github.com/WhoStoleMySleepDev/logger) | Zero-dependency structured logger for Node.js — async writes (~700k logs/sec), log rotation, child loggers |
+| [@wsms/logger-connect-nuxt](https://github.com/WhoStoleMySleepDev/logger-connect-nuxt) | Nuxt 3/4 module for @wsms/logger |
+| [protected-gallery](https://github.com/WhoStoleMySleepDev/protected-gallery) | Encrypted media vault for Android — AES-256-GCM, Android Keystore, native Kotlin module, fully offline |
 
 ## Contact
 
+- **Telegram:** [@WhoStoleMySleepDev](https://t.me/WhoStoleMySleepDev)
 - **Email:** whostolemysleep@gmail.com
 - **Tel:** +7 (913) 307-05-92
