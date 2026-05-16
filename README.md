@@ -1,6 +1,6 @@
 # Hi, I'm Konstantin 👋
 
-Frontend developer specializing in **Vue 3 / Nuxt 2·3·4** with 4 years of commercial experience in fintech (SberSpasibo, Pochta Bank).
+Frontend developer specializing in **Vue 3 / Nuxt 4/3/2** with 4 years of commercial experience in fintech (SberSpasibo, Pochta Bank).
 
 ## Stack
 
