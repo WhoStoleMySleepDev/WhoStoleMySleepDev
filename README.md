@@ -18,6 +18,7 @@ Frontend developer specializing in **Vue 3 / Nuxt 4·3·2** with 4 years of comm
 | [@wsms/logger](https://github.com/WhoStoleMySleepDev/logger) | Zero-dependency structured logger for Node.js — async writes (~700k logs/sec), log rotation, child loggers |
 | [@wsms/logger-connect-nuxt](https://github.com/WhoStoleMySleepDev/logger-connect-nuxt) | Nuxt 3/4 module for @wsms/logger |
 | [protected-gallery](https://github.com/WhoStoleMySleepDev/protected-gallery) | Encrypted media vault for Android — AES-256-GCM, Android Keystore, native Kotlin module, fully offline |
+| [whostolemysleep.ru](https://github.com/WhoStoleMySleepDev/whostolemysleep-ru) | Full-stack portfolio — Nuxt 4, Drizzle ORM, Neon, Vercel ISR, built-in CMS, EN/RU |
 
 ## Contact
 
