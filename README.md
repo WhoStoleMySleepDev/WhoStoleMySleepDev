@@ -4,13 +4,13 @@ Frontend developer specializing in **Vue 3 / Nuxt 4·3·2** with 4 years of comm
 
 ## Stack
 
-**Core:** TypeScript · JavaScript · Vue 3 · Nuxt 4/3/2 · React · Next.js
-**State & Data:** Pinia · TanStack Query · Vuex · Zustand · Redux
-**UI:** Tailwind CSS · SCSS/SASS · CSS Modules · Shadcn/ui
-**Backend:** Node.js · NestJS · Express · REST API · GraphQL · WebSocket · PostgreSQL · Prisma
-**Systems:** Rust · Tauri 2 · SQLite · Kotlin (Android)
-**Tooling:** Vite · Webpack · Vitest · Jest · Playwright · Cypress · Docker · CI/CD · Sentry
-**Performance:** Core Web Vitals (LCP · INP · CLS) · SSR · SSG · ISR · SPA · code splitting · lazy loading
+**Core:** TypeScript · JavaScript · Vue 3 · Nuxt 4/3/2 · React · Next.js \
+**State & Data:** Pinia · TanStack Query · Vuex · Zustand · Redux \
+**UI:** Tailwind CSS · SCSS/SASS · CSS Modules · Shadcn/ui \
+**Backend:** Node.js · NestJS · Express · REST API · GraphQL · WebSocket · PostgreSQL · Prisma \
+**Systems:** Rust · Tauri 2 · SQLite · Kotlin (Android) \
+**Tooling:** Vite · Webpack · Vitest · Jest · Playwright · Cypress · Docker · CI/CD · Sentry \
+**Performance:** Core Web Vitals (LCP · INP · CLS) · SSR · SSG · ISR · SPA · code splitting · lazy loading \
 
 ## Applications
 
