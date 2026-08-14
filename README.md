@@ -10,7 +10,7 @@ Frontend developer specializing in **Vue 3 / Nuxt 4·3·2** with 4 years of comm
 **Backend:** Node.js · NestJS · Express · REST API · GraphQL · WebSocket · PostgreSQL · Prisma \
 **Systems:** Rust · Tauri 2 · SQLite · Kotlin (Android) \
 **Tooling:** Vite · Webpack · Vitest · Jest · Playwright · Cypress · Docker · CI/CD · Sentry \
-**Performance:** Core Web Vitals (LCP · INP · CLS) · SSR · SSG · ISR · SPA · code splitting · lazy loading \
+**Performance:** Core Web Vitals (LCP · INP · CLS) · SSR · SSG · ISR · SPA · code splitting · lazy loading 
 
 ## Applications
 
