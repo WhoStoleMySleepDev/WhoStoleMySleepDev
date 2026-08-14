@@ -29,7 +29,7 @@ Frontend developer specializing in **Vue 3 / Nuxt 4·3·2** with 4 years of comm
 |---|---|
 | [@wsms/logger](https://github.com/WhoStoleMySleep/logger) | Zero-dependency structured logger for Node.js — async writes (~700k logs/sec), log rotation, child loggers |
 | [@wsms/logger-connect-nuxt](https://github.com/WhoStoleMySleep/logger-connect-nuxt) | Nuxt 3/4 module for @wsms/logger |
-| [tauri-plugin-timer](https://github.com/WhoStoleMySleep/tauri-plugin-timer) | Android ongoing timer notification for Tauri — system chronometer and action buttons held by a foreground service, so it keeps counting with no JavaScript running |
+| [tauri-plugin-timer](https://github.com/WhoStoleMySleep/tauri-plugin-timer) [![crates.io](https://img.shields.io/crates/v/tauri-plugin-timer.svg?logo=rust&label=)](https://crates.io/crates/tauri-plugin-timer) | Android ongoing timer notification for Tauri — system chronometer and action buttons held by a foreground service, so it keeps counting with no JavaScript running |
 | [attractions-sync](https://github.com/WhoStoleMySleep/attractions42-sync) | Rust data pipeline — pulls the Ministry of Culture registry from a Russian IP, converts photos to WebP and commits the dataset into the site repo, so the build makes no network calls |
 
 ## Contact
